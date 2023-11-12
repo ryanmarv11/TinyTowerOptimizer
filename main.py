@@ -22,4 +22,6 @@ class Floor:
         self.employees = []
 
 
+
+print("Something")
 print("Hello, world! This is my Tiny Tower Optimizer...or at least it will be.")
